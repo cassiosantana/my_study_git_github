@@ -1,0 +1,2 @@
+- Basicamente, como chama o instrutor, seria como se fosse um galho que se deriva de um tronco principal de uma árvore.
+- Ele é um clone exato do principal e serve para que possamos trabalhar de forma segura para fazer alterações, testes, inclusões de novas funcionalidades e posteriormente quando tudo estiver bem testado e funcionando como deveria faremos o merge que é a união das branchs.
