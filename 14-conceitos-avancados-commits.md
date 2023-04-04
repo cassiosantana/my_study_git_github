@@ -24,3 +24,19 @@ novas funcionalidades mas mantém compatibilidades.
 O '7' - PATCH alterações que corrigem bug e alterações menores
 do dia a dia.
 
+
+Conventional Commits
+Define um conjunto de regras para criar um historico de
+commit explícito para faciliar a criação de ferramentas automatizadas baseadas na especificação. Esta convenção se
+encaixa com o SemVer, descrevendo os recursos, correções e
+modificações que quebram compatibilidade nas mensagens de
+commit.
+https://www.conventionalcommits.org/
+
+Os prefixos demonstrados no convetional commits são tão
+importantes pois podem automatizar, por exemplo as versões
+de patchs das aplicações por exemplo o fix:, se a versão de
+patch era 3.2.7 commitando usando fix iria para 3.2.8 se o
+patch foi aceito.
+
+A leitura é extremamente recomentada.
