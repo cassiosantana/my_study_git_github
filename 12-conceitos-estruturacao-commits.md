@@ -24,4 +24,9 @@ Assunto
   - Add a feature
   - Modify an ...
   - Remove a feature
-
+Corpo
+- Adicione detalhes ao commit
+- Tente quebrar a linha em 75 caracteres
+- Identifique sua audiência
+- Explique tudo
+- Use markdown
